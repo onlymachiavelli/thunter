@@ -723,3 +723,34 @@ footer .f_card form button{
   height:100vh;
   overflow: hidden;
 }
+
+
+
+@media(max-width:960px){
+  .image_area{
+    display: none;
+  }
+  .input_login_area{
+    width:100%;
+    float:auto;
+  }
+}
+@media(max-width:498px){
+  .log_title{
+    width:200px;
+    
+  }
+  .log_title p{
+    font-size: 17px;
+  }
+}
+
+@media(max-height:599px){
+  #image_par{
+    font-size:15px;
+  }
+  .l-btn{
+    padding:10px;
+    font-size:15px;
+  }
+}
