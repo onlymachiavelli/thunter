@@ -16,4 +16,4 @@ const Hume = () => {
     )
 }
 
-export { Hume }
+export default Hume
