@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
-import { Hume } from '../pages/home'
+import Hume from '../pages/home'
 import { Categ } from '../UI/home/categories'
 import { Footer } from '../UI/home/footer'
 export default function Home() {
